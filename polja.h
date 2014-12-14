@@ -1,8 +1,3 @@
-Program
-=======
-
-klijenti u pošti
-
 struct klient{
 	string ime, prezime;
 	char spol;
